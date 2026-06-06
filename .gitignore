@@ -1,0 +1,36 @@
+```
+# Dependencies
+node_modules/
+
+# Build artifacts
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Package manager
+package-lock.json
+yarn.lock
+
+# Vite
+.vite/
+
+```
